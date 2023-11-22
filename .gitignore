@@ -122,3 +122,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Parking_Violations_2022.csv
