@@ -122,4 +122,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Parking_Violations_2023.csv
 Parking_Violations_2022.csv
+Parking_Violations_2021.csv
+Parking_Violations_2020.csv
+Parking_Violations_2019.csv
+Parking_Violations_2018.csv
+Parking_Violations_2017.csv
+
+2017_data_for_one_street.csv
+2018_data_for_one_street.csv
+2019_data_for_one_street.csv
+2020_data_for_one_street.csv
+2021_data_for_one_street.csv
+2022_data_for_one_street.csv
+2023_data_for_one_street.csv
+
